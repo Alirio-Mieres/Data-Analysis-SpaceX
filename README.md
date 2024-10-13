@@ -10,7 +10,7 @@ Question: What are the occurrences of orbits?
 
 Answer: The most common orbits are LEO and GTO.
 ```
-* Orbit
+Orbit
 * LEO            67
 * GTO            33
 * SSO             7
