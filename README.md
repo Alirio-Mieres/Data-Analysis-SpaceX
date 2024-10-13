@@ -8,7 +8,7 @@ This repository contains notebooks where web scraping, data analysis, and visual
 
 Question: What are the occurrences of orbits?
 
-Answer: The most common orbits are GTO and ISS.
+Answer: The most common orbits are LEO and GTO.
 ```
 * Orbit
 * LEO            67
@@ -23,7 +23,7 @@ Answer: The most common orbits are GTO and ISS.
 
 Question: What is the number of launches at each site?
 
-Answer: The most common launch site is CCAFS LC-40.
+Answer: The most common launch site is CCAFS and KSC.
 ```
 Launch site
 CCAFS             40
